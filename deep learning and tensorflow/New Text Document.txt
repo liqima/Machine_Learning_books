@@ -1,0 +1,1 @@
+tensorboard --logdir=C:\Users\maliqi\Desktop\tensorflow\09up_and_running_with_tensorflow\tf.logs
